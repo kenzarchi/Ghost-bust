@@ -7,3 +7,5 @@ We explore the 8x 20 grid  according to prior distribution of Ghost over locatio
 # •	1 or 2 away: orange
 # •	3 or 4 away: yellow
 # •	 5+ away: green  
+
+# Demo: https://youtu.be/8m7CjJ7oawE
