@@ -10,3 +10,4 @@ We explore the 8x 20 grid  according to prior distribution of Ghost over locatio
 
 # Demo: https://youtu.be/8m7CjJ7oawE
 # Summary 
+We explore the 8x 20 grid  according to prior distribution of Ghost over location P(Ghost)  While exploring the grid in order to find the ghost and to bust it , the Sensor readings tell how close a square is to the ghost
