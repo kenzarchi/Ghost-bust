@@ -9,3 +9,4 @@ We explore the 8x 20 grid  according to prior distribution of Ghost over locatio
 # •	 5+ away: green  
 
 # Demo: https://youtu.be/8m7CjJ7oawE
+# Summary 
